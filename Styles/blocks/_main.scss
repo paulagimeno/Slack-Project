@@ -9,6 +9,7 @@ main{
     flex-direction: column;
     text-align: center;
     padding-top: 40px;
+    margin-top: -2%;
 
     .titulo{
         font-size: 40px;
@@ -321,5 +322,24 @@ main{
             border-width: 1px;
         }
 }
+.logo3{
+    width: 100%; 
+    padding-bottom: 20px;
+    background-color: #FFFFFF;
+
+    .morado{
+        width: 100%;
+        background-color: $primary-color;
+        height: 40px;
+        border-bottom-left-radius: 70%;
+        border-bottom-right-radius: 70%;
+        margin-top: -2%;
+    }
+
+    .logoo{
+        margin-left: 15px;
+    }
 }
+}
+
 }

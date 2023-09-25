@@ -20,6 +20,7 @@ main .purple {
   flex-direction: column;
   text-align: center;
   padding-top: 40px;
+  margin-top: -2%;
 }
 main .purple .titulo {
   font-size: 40px;
@@ -312,22 +313,26 @@ main .purple2 .bigb2 .second2 {
   border-color: #FFFFFF;
   border-width: 1px;
 }
+main .purple2 .logo3 {
+  width: 100%;
+  padding-bottom: 20px;
+  background-color: #FFFFFF;
+}
+main .purple2 .logo3 .morado {
+  width: 100%;
+  background-color: #541554;
+  height: 40px;
+  border-bottom-left-radius: 70%;
+  border-bottom-right-radius: 70%;
+  margin-top: -2%;
+}
+main .purple2 .logo3 .logoo {
+  margin-left: 15px;
+}
 
 footer {
   background-color: #FFFFFF;
   font-family: arial, helvetica, sans-serif;
-}
-footer .bottomp {
-  margin-top: -5px;
-  height: 100px;
-  background-color: #541554;
-  border-bottom-left-radius: 70%;
-  border-bottom-right-radius: 70%;
-}
-footer .logo3 {
-  width: 90%;
-  margin-left: 5%;
-  padding-bottom: 20px;
 }
 footer .ul1 {
   width: 90%;
@@ -373,8 +378,4 @@ footer .last {
   width: 90%;
   margin-left: 5%;
   padding-bottom: 30px;
-}
-
-body {
-  background-color: #541554;
 }/*# sourceMappingURL=style.css.map */
