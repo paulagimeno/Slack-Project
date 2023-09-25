@@ -1,0 +1,17 @@
+@import "../Styles/utilities/responsive";
+
+@import "../Styles/utilities/variables";
+
+@import "../Styles/base/resets";
+
+@import "../Styles/blocks/header";
+
+@import "../Styles/blocks/main";
+
+@import "../Styles/blocks/footer";
+
+body{
+    background-color: $primary-color;
+}
+
+
