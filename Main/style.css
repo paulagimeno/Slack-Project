@@ -333,6 +333,8 @@ main .purple2 .logo3 .logoo {
 footer {
   background-color: #FFFFFF;
   font-family: arial, helvetica, sans-serif;
+  padding-top: 20px;
+  margin-top: -2%;
 }
 footer .ul1 {
   width: 90%;
