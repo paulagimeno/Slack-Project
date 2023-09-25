@@ -115,6 +115,16 @@ main .carne .parrafito2 a {
   color: #1279A9;
   font-size: 18px;
 }
+main .carne .phone1 {
+  margin-left: -20px;
+  width: 390px;
+}
+main .carne .phone2 {
+  margin-right: -20px;
+}
+main .carne .phone3 {
+  margin-left: -20px;
+}
 main .white {
   display: flex;
   flex-direction: column;
